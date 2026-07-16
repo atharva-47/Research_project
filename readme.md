@@ -4,6 +4,12 @@
 
 This project was completed as part of my Master's research work. The objective was to compare AI-generated and human-created YouTube channels using publicly available metadata to identify differences in channel growth, video performance, and audience engagement.
 
+## Related Research
+
+This repository contains the implementation and analysis completed as part of my Master's research project.
+
+**Publication:** https://zenodo.org/records/18440101
+
 ## Objectives
 
 - Compare AI-generated and human-created YouTube channels.
